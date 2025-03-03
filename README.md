@@ -11,13 +11,13 @@ Model uses open source python libraries BioPython, RDKit, PubChempy and Sci-kit 
 Chemical compound data can be obtained from PubChempy library
 
 **Data Format**
-SMILES : Simplified Molecular Input Line Entry System
+SMILES : Simplified Molecular Input Line Entry System,
 InChl: International Chemical Identifier
 
 **Molecular Descriptors**
-Solubility
-logP (partition coefficient)
-vapor pressure
+Solubility,
+logP (partition coefficient),
+vapor pressure,
 TPSA( Topological polar surface area)
 
 
