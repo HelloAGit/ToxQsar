@@ -21,4 +21,10 @@ logP (partition coefficient),
 vapor pressure,
 TPSA( Topological polar surface area)
 
+**Usage Examples**
+from toxqsar import Model
+model = Model()
+model.predict("CCO")  # Example SMILES
+
+
 
